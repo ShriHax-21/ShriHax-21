@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrijesh-pokharel&label=Profile%20views&color=0e75b6&style=flat" alt="shrijesh-pokharel" /> </p>
 
-- 🌱 I’m currently learning **React, Java, etc.**
+- 🌱 I’m currently learning **linux, cyber security etc.**
 
 - 👨‍💻 All of my projects are available at [https://shrijesh.com.np/](https://shrijesh.com.np/)
 
