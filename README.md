@@ -17,7 +17,7 @@ Pinned repos: Crypto in C, IP/MAC Changer, YouTube Downloader... more security g
 
 Training on Hack The Box & TryHackMe | Open source enthusiast | Open to internships/collabs
 
-Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](https://shrijesh.com.np)
+Drop a star if you like what you see ⭐ | More about me: [shrijesh.com.np](https://shrijesh.com.np)
 </p>
 
 ---
@@ -31,25 +31,25 @@ Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](http
 
 ### 📊 GitHub Stats:
 <div align="center">
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <br />
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShriHax-21&theme=dark&hide_border=false)
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ShriHax-21&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <br />
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats" />
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <div align="center">
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### ✍️ Random Dev Quote:
 <div align="center">
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
@@ -59,7 +59,7 @@ Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](http
   <a href="https://www.linkedin.com/in/shrijesh-pokharel/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
   </a>
-  <a href="discord.com/shri_hax" target="_blank" rel="noopener noreferrer">
+  <a href="https://discord.com/shri_hax" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord">
   </a>
   <a href="https://tryhackme.com/p/ShriHax" target="_blank" rel="noopener noreferrer">
@@ -74,7 +74,7 @@ Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](http
 
 ### ✨ Dynamic Activity ✨
 <div align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShriHax-21.ShriHax-21&left_text=look%20at%20me)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriHax-21.ShriHax-21&left_text=look%20at%20me" alt="Visitor Badge" />
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph-dark.svg">
@@ -82,7 +82,7 @@ Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](http
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
   </picture>
   <br />
-  ![Snake Animation](https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg)
+  <img src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ---
