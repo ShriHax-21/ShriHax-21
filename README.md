@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Hey 👋, I am Shrijesh</h1>
 </div>
@@ -31,18 +32,18 @@ Drop a star if you like what you see ⭐ | More about me: [shrijesh.com.np](http
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /> -->
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShriHax-21&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages Stats" /> -->
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> -->
 </div>
 
 ---
@@ -78,7 +79,6 @@ Drop a star if you like what you see ⭐ | More about me: [shrijesh.com.np](http
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
   </picture>
   <br />
