@@ -4,7 +4,6 @@
 
 ---
 
-
 ### 💫 About Me:
 <p>
 Cybersecurity student by day, ethical hacker & script builder by night. Love breaking things (ethically) and building tools that make security fun and accessible.
@@ -30,68 +29,65 @@ Drop a star if you like what you see ⭐ | More about me: [shrIjesh.com.np](http
 
 ---
 
+### 📊 GitHub Stats:
 <div align="center">
-  <h2>📊 GitHub Stats:</h2>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ShriHax-21&theme=dark&hide_border=false" />
+  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ShriHax-21&theme=dark&hide_border=false)
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHax-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ShriHax-21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 </div>
 
 ---
 
 ### ✍️ Random Dev Quote:
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
 
 ---
 
 ### 🔗 Social Links:
 <div align="center">
-  <a href="https://www.linkedin.com/in/shrijesh-pokharel/" target="_blank">
+  <a href="https://www.linkedin.com/in/shrijesh-pokharel/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
   </a>
-  <a href="discord.com/shri_hax" target="_blank">
+  <a href="discord.com/shri_hax" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord">
   </a>
-  <a href="https://tryhackme.com/p/ShriHax" target="_blank">
+  <a href="https://tryhackme.com/p/ShriHax" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="TryHackMe">
   </a>
-  <a href="https://www.instagram.com/ssh_shrijesh" target="_blank">
+  <a href="https://www.instagram.com/ssh_shrijesh" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram">
   </a>
 </div>
 
 ---
 
-<div>
-  <h2 align="center">✨ Dynamic Activity ✨</h2>
-</div>
-
+### ✨ Dynamic Activity ✨
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriHax-21.ShriHax-21&left_text=look%20at%20me" />
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShriHax-21.ShriHax-21&left_text=look%20at%20me)
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
   </picture>
   <br />
-  <img src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg" alt="Snake animation" />
+  ![Snake Animation](https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg)
 </div>
 
+---
 
+### Final Header
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
