@@ -39,8 +39,30 @@
 
 ###
 
+<p align="left">Cybersecurity student by day, ethical hacker & script builder by night. Love breaking things (ethically) and building tools that make security fun and accessible.<br><br>🔥 Passionate about:<br>- Cryptography & Encryption<br>- Network tools (scanners, spoofers)<br>- Python automation & low-level C programming<br><br>Pinned repos: Crypto in C, IP/MAC Changer, YouTube Downloader... more security goodies coming!<br><br>Training on Hack The Box & TryHackMe | Open source enthusiast | Open to internships/collabs<br><br>Drop a star if you like what you see ⭐ | More about me: shrijesh.com.np</p>
+
+###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShriHax-21.ShriHax-21&left_text=look%20at%20me"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg" alt="Snake animation" />
 
 ###
