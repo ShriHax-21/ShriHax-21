@@ -82,7 +82,6 @@ Drop a star if you like what you see ⭐ | More about me: [shrijesh.com.np](http
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/pacman-contribution-graph.svg">
   </picture>
   <br />
-  <img src="https://raw.githubusercontent.com/ShriHax-21/ShriHax-21/output/snake.svg" alt="Snake Animation" />
 </div>
 
 ---
